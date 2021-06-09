@@ -36,6 +36,7 @@ FAUNA_API_KEY=*chave de segurança do Fauna DB*
 
 ```sh
 yarn
+yarn dev
 yarn test
 ```
 
