@@ -1,5 +1,5 @@
-import { Button, Box, defaultStandaloneParam } from '@chakra-ui/react';
-import { useEffect, useMemo } from 'react';
+import { Button, Box } from '@chakra-ui/react';
+import { useMemo } from 'react';
 import { useInfiniteQuery } from 'react-query';
 
 import { Header } from '../components/Header';
